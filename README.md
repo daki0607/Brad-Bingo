@@ -1,6 +1,6 @@
 # Brad Bingo
 
-Included files:
+## Included files:
 - bingo.py     : Generates a printable sheet with 4 bingo boards
 - phrases.txt  : A required file containing phrases that populate the boards
 - README.md   : The file you're reading right now!
@@ -8,7 +8,7 @@ Included files:
 Creates 4x4 bingo boards using custom phrases.
 4 Boards are tiled on each sheet of paper to allow for easy printing.
 
-Requirements and functionality:
+## Requirements and functionality:
 
 ### bingo.py
 - Requires the "Pillow" library
